@@ -8,7 +8,7 @@
   (5) srting 字符串是字符的载体，而且必须被成对的引号 '' 或 "" 包围
   typeof(undefined) 返回值是 'undefined'
   typeof(null) 返回值是字符串 'object'(对象类型)
-3.复杂数据
+3.复杂类型
   {} 花括号，用来定义一个对象 {key : value}
   [] 中括号，用来定义一个数组.元素间用逗号隔开
   如:var student={name : 'Tom' , finish_work : true , id:123}
